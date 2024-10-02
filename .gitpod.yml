@@ -1,0 +1,3 @@
+tasks:
+  init:
+    - sudo ./aws/install --bin-dir /usr/local/bin --install-dir /usr/local/aws-cli --update
